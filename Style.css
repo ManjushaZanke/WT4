@@ -1,0 +1,35 @@
+.container-fluid{
+    margin-top:6%;
+}
+.card{
+    padding: 30px;
+    background-color: #ffffff;
+    background-image: url("https://www.macmillandictionary.com/external/slideshow/thumb/White_thumb.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.card-title{
+    font-size: 4vw;
+}
+@media only screen and (max-width: 360px){
+    .card{
+        background-color: #ffffff;
+        background-image: url("https://www.macmillandictionary.com/external/slideshow/thumb/White_thumb.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: top left;
+    }
+    .card-title{
+        font-size:20px;
+    }
+}
+*{ 
+    font-family: 'Baloo Tamma 2', cursive;
+}
+body{
+    background-color: #ffffff;
+    background-image: url("https://cutewallpaper.org/21/wallpaper-cafe/ZLJTYN-370cmX245cm-Custom-retro-wallpaper,-coffee,-3D-retro-.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}  
